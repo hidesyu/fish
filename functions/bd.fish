@@ -1,0 +1,1 @@
+/Users/yuihidetsugu/.config/fisherman/bd/functions/bd.fish
